@@ -1,0 +1,24 @@
+{
+  "name": "javascriptwebreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "screenshot": "node ./modules/screenshot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepabellana/JavascriptWebReader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josepabellana/JavascriptWebReader/issues"
+  },
+  "homepage": "https://github.com/josepabellana/JavascriptWebReader#readme",
+  "dependencies": {
+    "puppeteer": "^22.3.0"
+  }
+}
